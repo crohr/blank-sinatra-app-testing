@@ -1,0 +1,5 @@
+targets:
+  debian-wheezy:
+    buildpack: "https://github.com/pkgr/heroku-buildpack-ruby.git#wheezy"
+  ubuntu-precise:
+    buildpack: "https://github.com/pkgr/heroku-buildpack-ruby.git#wheezy"
